@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on X
 - 📫 How to reach me? @_ilyass44 on insta
 - 😄 Pronouns: what are those?
-- ⚡ Fun fact: Allodoxaphobia is the fear of other people's opinions.
+- ⚡ Fun fact: Alexa is always listening to your conversations.
 
 <!---
 LinuxFarAway/LinuxFarAway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
